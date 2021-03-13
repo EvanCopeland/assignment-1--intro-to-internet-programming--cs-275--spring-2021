@@ -1,0 +1,28 @@
+h1 {
+ font:24px Helvetica;
+ margin: 0 0 10px 0;
+ color:darkviolet;
+ position:relative;
+ left:20px;
+}
+html {
+    background-color:dimgray;
+}
+h2{
+    font:18px Helvetica;
+}
+members{
+    position:relative;
+    left:20px;
+}
+credit{
+    position: relative;
+    left: 20px;
+}
+time {
+    position: relative;
+    left: 20px;
+}
+text{
+    text-align:center;
+}
